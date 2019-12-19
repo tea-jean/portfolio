@@ -11,8 +11,10 @@ To convey previous experience and skills for potential employers. Also to showca
 - Functionality / features
 
 - Sitemap
-![site map image]()
+![site map image](https://github.com/tea-jean/portfolio/blob/master/media/Portfolio%20layout%20(1).png)
+
 - Screenshots
+
 
 - Target audience
 Potential employers
